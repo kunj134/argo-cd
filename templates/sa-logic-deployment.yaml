@@ -21,7 +21,7 @@ spec:
         app: sa-logic
     spec:
       containers:
-        - image: kunjan134/webapp-test:latest-7
+        - image: kunjan134/logicapp-test:latest-7
           imagePullPolicy: Always
           name: sa-logic
           ports:
