@@ -1,2 +1,2 @@
 webapp:
-  image: kunjan134/webapp-test:latest-32
+  image: kunjan134/webapp-test:latest-33
