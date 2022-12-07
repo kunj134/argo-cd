@@ -21,7 +21,8 @@ spec:
         app: sa-web-app
     spec:
       containers:
-      - image: kunjan134/webapp-test:latest-7
+      #- image: kunjan134/webapp-test:latest-7
+      - image: {{ .Values.webapp.image }}
         imagePullPolicy: Always
         name: sa-web-app
         env:
