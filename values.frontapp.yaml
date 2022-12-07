@@ -1,1 +1,2 @@
-image: kunjan134/frontapp-test:latest-30
+frontapp:
+  image: kunjan134/frontapp-test:latest-32

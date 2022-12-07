@@ -1,1 +1,2 @@
-image: kunjan134/logicapp-test:latest-30
+logicapp:
+  image: kunjan134/logicapp-test:latest-32
