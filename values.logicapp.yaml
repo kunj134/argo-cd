@@ -1,1 +1,1 @@
-image: kunjan134/logicapp-test:latest-${BUILD_NUMBER}
+image: kunjan134/logicapp-test:latest-10
